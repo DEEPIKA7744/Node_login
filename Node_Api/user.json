@@ -1,0 +1,20 @@
+[{
+    "firstName" : "Deepika",
+    "lastName" : "raja",
+    "age" :"22"
+    
+},{
+    "firstName" : "Gowtham",
+    "lastName" : "raja",
+    "age" :"12"
+},
+{
+    "firstName" : "Dharaneesh",
+    "lastName" : "Jayakumar",
+    "age" :"22"
+},{
+    "firstName" : "Anandhi",
+    "lastName" : "raja",
+    "age" :"32"
+}
+]

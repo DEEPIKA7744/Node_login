@@ -1,0 +1,16 @@
+.primary{
+    color: rgb(239, 21, 21);
+}
+
+.font-xl{
+    font-size: 700;
+}
+.form{
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;
+}
+.user_box{
+    margin: 10px;
+    padding: 6px;
+}
